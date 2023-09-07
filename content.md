@@ -13,7 +13,7 @@ For example, given 11 and 13 as input, the 11 should be 'converted' into a 1 so 
 
 Use the `numbers` array below to write your solution. Your code should always start by extracting from the `numbers` array.
 
-Hint: It may be helpful to use the `.include?` method on the array; [see the Ruby reference](https://learn.firstdraft.com/lessons/33#include-array)
+Hint: It may be helpful to use the `.include?` method on the array; [see the Ruby reference](https://learn.firstdraft.com/lessons/33-the-one-ruby-reference#include-array)
 
 ```ruby
 numbers = [rand(1..13), rand(1..13)]
